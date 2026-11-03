@@ -454,6 +454,14 @@ iso_datetime = f"{data['chosen_date']}T{time_part}:00+03:00"
 
 ---
 
+## 🔍 Ключевые слова / Keywords
+
+`telegram бот автосервис` · `бот для записи на ТО` · `онлайн-запись в автосервис` · `запись на техобслуживание` · `ИИ-диагностика автомобиля` · `диагностика авто по фото` · `диагностика по голосу` · `нейросеть для автосервиса` · `GPT-4o-mini` · `Whisper` · `Vision API` · `aiogram` · `aiogram 3` · `python telegram bot` · `асинхронный бот` · `asyncio` · `FSM` · `Redis` · `Baserow` · `CRM для автосервиса` · `no-code CRM` · `Docker` · `docker compose` · `автоматизация автосервиса` · `статус ремонта онлайн` · `чат-бот для бизнеса` · `автоматизация записи клиентов` · `ai chatbot` · `car service chatbot` · `auto repair telegram bot`
+
+> **EN:** AutoService Bot — an asynchronous Telegram bot for car service centers, built with Python and aiogram 3. It handles service booking with a real-time availability calendar, performs AI car diagnostics from text, voice messages and photos (GPT-4o-mini, Whisper, Vision), and lets customers track repair status. Integrated with Baserow CRM and Redis FSM, ships with Docker Compose.
+
+---
+
 <div align="center">
 
 **Сделано с ❤️ для автосервиса «Восток»**
